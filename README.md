@@ -4,17 +4,12 @@ To execute ChatApp: cd to project root directory and run 'bash run.sh'. this wil
 
 Steps:
 
-1. Install the requirements.txt file
-```
-pip install -r requirements.txt
-```
-
-2. Run the "run.sh" script
+1.  Run the "run.sh" script
 ```
 bash run.sh
 ```
 
-3. open your brower with this link: http://localhost:5000
+2. open your brower with this link: http://localhost:5000
 
 
 And you will see the application. you can change rooms by adding room number after the port like this http://localhost:5000/room-number
